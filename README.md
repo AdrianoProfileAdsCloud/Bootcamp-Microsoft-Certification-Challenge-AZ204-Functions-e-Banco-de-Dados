@@ -54,13 +54,13 @@ Criar série de Azure Functions para gerenciar catálogos similares aos da Netfl
 
 EndPoint para Azure Function - **fnPostDataStorange(Post)**:
    - http://localhost:7071/api/dataStorage
-<br>
+
   Reader tipo: file-type    Value: video
 <br>
 
 EndPoint para Azure Function - **fnPostDatabase(Post)**:
    - http://localhost:7071/api/movie
-<br>
+
   Body Tipo: raw   Value: 
   
 ```json
@@ -79,7 +79,7 @@ EndPoint para Azure Function - **fnPostDatabase(Post)**:
 
 EndPoint para Azure Function - **fnGetMovieDetail(Get)**:
    - http://localhost:7071/api/detail?id=12345
-<br>
+     
    Param: id   Value:12345
 
 <br>
