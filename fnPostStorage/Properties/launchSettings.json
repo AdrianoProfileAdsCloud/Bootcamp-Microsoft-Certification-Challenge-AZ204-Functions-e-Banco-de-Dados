@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Azure_Functions_e_Banco_de_Dados": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7071",
+      "launchBrowser": false
+    }
+  }
+}

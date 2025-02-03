@@ -1,0 +1,8 @@
+{
+    "dotnet.defaultSolution": "Azure Functions e Banco de Dados.sln",
+    "azureFunctions.deploySubpath": "PRJ 1 -Azure Functions e Banco de Dados/bin/Release/net8.0/publish",
+    "azureFunctions.projectLanguage": "C#",
+    "azureFunctions.projectRuntime": "~4",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "publish (functions)"
+}
